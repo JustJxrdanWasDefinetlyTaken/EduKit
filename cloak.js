@@ -8,7 +8,7 @@ function openInNewTab(url) {
   /*
   var icon = win.document.createElement('link')
   icon.rel = "shortcut icon"
-  icon.href = ""
+  icon.href = "https://raw.githubusercontent.com/OsmiumNetwork/EduKit/main/proxy/static/logo.png"
   icon.type = "image/png"
   win.document.head.appendChild(icon)
 
